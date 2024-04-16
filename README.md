@@ -3,3 +3,4 @@ This is a data visualization project. I designed an interactive data visualizati
 
 Users can freely choose their interests from the selection box, allowing them to customize the data displayed in the plots according to their preferences. The main interface includes pie charts, line charts, scatter plots, and more, providing users with a comprehensive view of the dataset.
 ![72f25ea8232c25e2ed10427f4850fdc](https://github.com/yyyaaa000/Super-Store/assets/146142955/b4259bd9-65a2-4f40-bcdc-353059dbd492)
+![a70ccf4705334702be6ca6f59796e47](https://github.com/yyyaaa000/Super-Store/assets/146142955/a7ee26a5-0780-4a6c-b6e4-9e717f96da15)
